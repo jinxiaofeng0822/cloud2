@@ -1,4 +1,4 @@
-package com.tsy.cloud;
+package com.jxf.cloud2;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
